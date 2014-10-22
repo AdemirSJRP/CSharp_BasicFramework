@@ -1,0 +1,9 @@
+C:\Users\Fernando\Desktop\Dev2014\CSharp_BasicFramework\DllFuturaDataUtil\obj\Debug\DllUtil.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Dev2014\CSharp_BasicFramework\DllFuturaDataUtil\obj\Debug\DllUtil.dll
+C:\Users\Fernando\Desktop\Dev2014\CSharp_BasicFramework\DllFuturaDataUtil\obj\Debug\DllUtil.pdb
+C:\Users\Fernando\Desktop\Dev2014\CSharp_BasicFramework\DllUtil\obj\Debug\DllUtil.csprojResolveAssemblyReference.cache
+C:\CSharp_BasicFramework\DllUtil.dll.config
+C:\CSharp_BasicFramework\DllUtil.dll
+C:\CSharp_BasicFramework\DllUtil.pdb
+C:\Users\Fernando\Desktop\Dev2014\CSharp_BasicFramework\DllUtil\obj\Debug\DllUtil.dll
+C:\Users\Fernando\Desktop\Dev2014\CSharp_BasicFramework\DllUtil\obj\Debug\DllUtil.pdb

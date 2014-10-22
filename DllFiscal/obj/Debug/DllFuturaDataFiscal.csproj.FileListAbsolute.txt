@@ -1,0 +1,27 @@
+C:\FuturaData\DllsFuturaData\DllFuturaDataFiscal.dll.config
+C:\FuturaData\DllsFuturaData\DllFuturaDataFiscal.dll
+C:\FuturaData\DllsFuturaData\DllFuturaDataFiscal.pdb
+D:\DesenvolvimentoSoftware\DllsFuturaData_2010\DllFuturaDataFiscal\obj\Debug\ResolveAssemblyReference.cache
+D:\DesenvolvimentoSoftware\DllsFuturaData_2010\DllFuturaDataFiscal\obj\Debug\DllFuturaDataFiscal.dll
+D:\DesenvolvimentoSoftware\DllsFuturaData_2010\DllFuturaDataFiscal\obj\Debug\DllFuturaDataFiscal.pdb
+D:\DesenvolvimentoSoftware\DllsFuturaData\DllFuturaDataFiscal\obj\Debug\ResolveAssemblyReference.cache
+D:\DesenvolvimentoSoftware\DllsFuturaData\DllFuturaDataFiscal\obj\Debug\DllFuturaDataFiscal.dll
+D:\DesenvolvimentoSoftware\DllsFuturaData\DllFuturaDataFiscal\obj\Debug\DllFuturaDataFiscal.pdb
+D:\DesenvolvimentoSoftware\Dlls_FuturaData\DllFuturaDataFiscal\obj\Debug\ResolveAssemblyReference.cache
+D:\DesenvolvimentoSoftware\Dlls_FuturaData\DllFuturaDataFiscal\obj\Debug\DllFuturaDataFiscal.dll
+D:\DesenvolvimentoSoftware\Dlls_FuturaData\DllFuturaDataFiscal\obj\Debug\DllFuturaDataFiscal.pdb
+D:\DesenvolvimentoSoftware2013\DllsFuturaData_v2013\DllFuturaDataFiscal\obj\Debug\DllFuturaDataFiscal.dll
+D:\DesenvolvimentoSoftware2013\DllsFuturaData_v2013\DllFuturaDataFiscal\obj\Debug\DllFuturaDataFiscal.pdb
+D:\DesenvolvimentoSoftware2013\DllsFuturaData_v2013\DllFuturaDataFiscal\obj\Debug\ResolveAssemblyReference.cache
+D:\DesenvolvimentoSoftware2014\DllsFuturaData_v2014\DllFuturaDataFiscal\obj\Debug\DllFuturaDataFiscal.csprojResolveAssemblyReference.cache
+D:\DesenvolvimentoSoftware2014\DllsFuturaData_v2014\DllFuturaDataFiscal\obj\Debug\DllFuturaDataFiscal.dll
+D:\DesenvolvimentoSoftware2014\DllsFuturaData_v2014\DllFuturaDataFiscal\obj\Debug\DllFuturaDataFiscal.pdb
+C:\Users\FernandoPassaia\Documents\Visual Studio 2010\Projects\DllsFuturaData_v2014\DllFuturaDataFiscal\obj\Debug\DllFuturaDataFiscal.csprojResolveAssemblyReference.cache
+C:\Users\FernandoPassaia\Documents\Visual Studio 2010\Projects\DllsFuturaData_v2014\DllFuturaDataFiscal\obj\Debug\DllFuturaDataFiscal.dll
+C:\Users\FernandoPassaia\Documents\Visual Studio 2010\Projects\DllsFuturaData_v2014\DllFuturaDataFiscal\obj\Debug\DllFuturaDataFiscal.pdb
+C:\Users\FernandoPassaia\Documents\Visual Studio 2013\Projects\DllsFuturaData_v2014\DllFuturaDataFiscal\obj\Debug\DllFuturaDataFiscal.csprojResolveAssemblyReference.cache
+C:\Users\FernandoPassaia\Documents\Visual Studio 2013\Projects\DllsFuturaData_v2014\DllFuturaDataFiscal\obj\Debug\DllFuturaDataFiscal.dll
+C:\Users\FernandoPassaia\Documents\Visual Studio 2013\Projects\DllsFuturaData_v2014\DllFuturaDataFiscal\obj\Debug\DllFuturaDataFiscal.pdb
+C:\Users\Fernando\Desktop\Dev2014\DllsFuturaData_v2014\DllFuturaDataFiscal\obj\Debug\DllFuturaDataFiscal.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Dev2014\DllsFuturaData_v2014\DllFuturaDataFiscal\obj\Debug\DllFuturaDataFiscal.dll
+C:\Users\Fernando\Desktop\Dev2014\DllsFuturaData_v2014\DllFuturaDataFiscal\obj\Debug\DllFuturaDataFiscal.pdb

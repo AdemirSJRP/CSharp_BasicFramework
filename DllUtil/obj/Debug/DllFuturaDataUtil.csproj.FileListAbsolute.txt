@@ -1,0 +1,25 @@
+D:\DesenvolvimentoSoftware\DllsFuturaData_2010\DllInfoSigaUtil\obj\Debug\ResolveAssemblyReference.cache
+D:\DesenvolvimentoSoftware\DllsFuturaData_2010\DllInfoSigaUtil\obj\Debug\DllFuturaDataUtil.dll
+D:\DesenvolvimentoSoftware\DllsFuturaData_2010\DllInfoSigaUtil\obj\Debug\DllFuturaDataUtil.pdb
+D:\DesenvolvimentoSoftware\DllsFuturaData\DllInfoSigaUtil\obj\Debug\ResolveAssemblyReference.cache
+D:\DesenvolvimentoSoftware\DllsFuturaData\DllInfoSigaUtil\obj\Debug\DllFuturaDataUtil.dll
+D:\DesenvolvimentoSoftware\DllsFuturaData\DllInfoSigaUtil\obj\Debug\DllFuturaDataUtil.pdb
+D:\DesenvolvimentoSoftware\Dlls_FuturaData\DllInfoSigaUtil\obj\Debug\ResolveAssemblyReference.cache
+D:\DesenvolvimentoSoftware\Dlls_FuturaData\DllInfoSigaUtil\obj\Debug\DllFuturaDataUtil.dll
+D:\DesenvolvimentoSoftware\Dlls_FuturaData\DllInfoSigaUtil\obj\Debug\DllFuturaDataUtil.pdb
+D:\DesenvolvimentoSoftware2013\DllsFuturaData_v2013\DllInfoSigaUtil\obj\Debug\DllFuturaDataUtil.dll
+D:\DesenvolvimentoSoftware2013\DllsFuturaData_v2013\DllInfoSigaUtil\obj\Debug\DllFuturaDataUtil.pdb
+D:\DesenvolvimentoSoftware2013\DllsFuturaData_v2013\DllInfoSigaUtil\obj\Debug\ResolveAssemblyReference.cache
+D:\DesenvolvimentoSoftware2014\DllsFuturaData_v2013\DllInfoSigaUtil\obj\Debug\DllFuturaDataUtil.csprojResolveAssemblyReference.cache
+D:\DesenvolvimentoSoftware2014\DllsFuturaData_v2013\DllInfoSigaUtil\obj\Debug\DllFuturaDataUtil.dll
+D:\DesenvolvimentoSoftware2014\DllsFuturaData_v2013\DllInfoSigaUtil\obj\Debug\DllFuturaDataUtil.pdb
+C:\Users\FernandoPassaia\Documents\Visual Studio 2013\Projects\DllsFuturaData_v2014\DllFuturaDataUtil\obj\Debug\DllFuturaDataUtil.csprojResolveAssemblyReference.cache
+C:\Users\FernandoPassaia\Documents\Visual Studio 2013\Projects\DllsFuturaData_v2014\DllFuturaDataUtil\obj\Debug\DllFuturaDataUtil.dll
+C:\Users\FernandoPassaia\Documents\Visual Studio 2013\Projects\DllsFuturaData_v2014\DllFuturaDataUtil\obj\Debug\DllFuturaDataUtil.pdb
+C:\FuturaData\DllsFuturaData\DllFuturaDataUtil.dll.config
+C:\FuturaData\DllsFuturaData\DllFuturaDataUtil.dll
+C:\FuturaData\DllsFuturaData\DllFuturaDataUtil.pdb
+C:\Users\Fernando\Desktop\Dev2014\DllsFuturaData_v2014\DllFuturaDataUtil\obj\Debug\DllFuturaDataUtil.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Dev2014\DllsFuturaData_v2014\DllFuturaDataUtil\obj\Debug\DllFuturaDataUtil.dll
+C:\Users\Fernando\Desktop\Dev2014\DllsFuturaData_v2014\DllFuturaDataUtil\obj\Debug\DllFuturaDataUtil.pdb
+C:\Users\Fernando\Desktop\Dev2014\CSharp_BasicFramework\DllFuturaDataUtil\obj\Debug\DllFuturaDataUtil.csprojResolveAssemblyReference.cache
