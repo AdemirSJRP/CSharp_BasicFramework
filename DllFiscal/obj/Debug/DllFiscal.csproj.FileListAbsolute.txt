@@ -7,3 +7,6 @@ C:\CSharp_BasicFramework\DllFiscal.dll
 C:\CSharp_BasicFramework\DllFiscal.pdb
 C:\Users\Fernando\Desktop\Dev2014\CSharp_BasicFramework\DllFiscal\obj\Debug\DllFiscal.dll
 C:\Users\Fernando\Desktop\Dev2014\CSharp_BasicFramework\DllFiscal\obj\Debug\DllFiscal.pdb
+C:\Users\Fernando\Documents\GitHub\CSharp_BasicFramework\DllFiscal\obj\Debug\DllFiscal.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\GitHub\CSharp_BasicFramework\DllFiscal\obj\Debug\DllFiscal.dll
+C:\Users\Fernando\Documents\GitHub\CSharp_BasicFramework\DllFiscal\obj\Debug\DllFiscal.pdb

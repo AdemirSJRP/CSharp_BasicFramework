@@ -7,3 +7,6 @@ C:\CSharp_BasicFramework\DllValidacoes.pdb
 C:\Users\Fernando\Desktop\Dev2014\CSharp_BasicFramework\DllValidacoes\obj\Debug\DllValidacoes.csprojResolveAssemblyReference.cache
 C:\Users\Fernando\Desktop\Dev2014\CSharp_BasicFramework\DllValidacoes\obj\Debug\DllValidacoes.dll
 C:\Users\Fernando\Desktop\Dev2014\CSharp_BasicFramework\DllValidacoes\obj\Debug\DllValidacoes.pdb
+C:\Users\Fernando\Documents\GitHub\CSharp_BasicFramework\DllValidacoes\obj\Debug\DllValidacoes.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\GitHub\CSharp_BasicFramework\DllValidacoes\obj\Debug\DllValidacoes.dll
+C:\Users\Fernando\Documents\GitHub\CSharp_BasicFramework\DllValidacoes\obj\Debug\DllValidacoes.pdb

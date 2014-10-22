@@ -8,6 +8,7 @@ toda documentação - assim como os testes e valores obtidos - estão documentad
 
  * Nota: Todos podem colaborar subindo suas melhorias, novos métodos e correções para esse projeto totalmente Opensource
  * e livre para uso de quem quiser em qualquer tipo de aplicação. Nota2: Por padrão, compila em C:\CSharp_BasicFramework
+ * Caso o diretório não exista - efetue sua criação antes de abrir esse projeto e efetuar o Build.
 --------------------------------------------------------------------------------------------------------------------- */
 
 using System;

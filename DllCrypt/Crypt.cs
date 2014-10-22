@@ -3,6 +3,10 @@ Fernando Passaia - https://www.linkedin.com/pub/fernando-passaia/24/622/285 - ht
 Blog: fernandopassaia.wordpress.com - Email/Skype: fernandopassaia@futuradata.com.br - Cel/Whatsapp: (11)98104-9080
 
 Essa classe não deve ser alterada nem usada/referênciada por algum projeto: Use a clsCriptografia como interface.
+ * 
+ * Nota: Todos podem colaborar subindo suas melhorias, novos métodos e correções para esse projeto totalmente Opensource
+ * e livre para uso de quem quiser em qualquer tipo de aplicação. Nota2: Por padrão, compila em C:\CSharp_BasicFramework
+ * Caso o diretório não exista - efetue sua criação antes de abrir esse projeto e efetuar o Build.
 --------------------------------------------------------------------------------------------------------------------- */
 
 using System;
